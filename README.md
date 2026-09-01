@@ -1,4 +1,4 @@
-# ReClip Installer 🇮🇷
+# ReClip Installer 
 
 نصب، مدیریت، به‌روزرسانی و حذف خودکار **ReClip** روی سرورهای Ubuntu/Debian با Docker و Nginx.
 
